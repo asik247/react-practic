@@ -93,6 +93,7 @@ const App = () => {
             <p className="py-6">
               Provident cupiditate voluptatem et in.
             </p>
+            <p>Already have an accoutn please register</p>
           </div>
 
           <div className="card w-full max-w-sm shadow-2xl bg-base-100">

@@ -122,6 +122,7 @@ const App = () => {
           <h6 className="footer-title">Legal</h6>
           <a className="link link-hover">Privacy</a>
           <a className="link link-hover">Terms</a>
+          <a className="link link-hover">contact</a>
         </nav>
       </footer>
 
